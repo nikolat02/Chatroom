@@ -8,7 +8,7 @@ using System.Threading;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace ConsoleApplication1  //ConsoleApplication1 is the "server" project/program
 {
     public class User
     {
